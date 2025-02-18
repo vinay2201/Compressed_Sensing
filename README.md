@@ -48,12 +48,12 @@ python compressed_sensing.py
 ## 📊 **How Compressed Sensing Works**
 The core principle is that a signal x can be recovered from fewer samples y = Φx, where:
 
-Φ is a sensing matrix that captures fewer measurements.
-The signal is sparse in some domain (e.g., wavelet or Fourier).
-Recovery is done by solving an ℓ1 minimization problem using convex optimization.
+- Φ is a sensing matrix that captures fewer measurements.
+- The signal is sparse in some domain (e.g., wavelet or Fourier).
+- Recovery is done by solving an ℓ1 minimization problem using convex optimization.
 
 ## 🚀 **Applications**
-🔹 Medical Imaging (MRI scans) 📟 - Reduces scan times.
-🔹 Wireless Communications 📡 - Efficient signal transmission.
-🔹 Machine Learning 🧠 - Feature selection and dimensionality reduction.
-🔹 Image & Audio Compression 🎵 - Reducing storage and bandwidth.
+- 🔹 Medical Imaging (MRI scans) 📟 - Reduces scan times.
+- 🔹 Wireless Communications 📡 - Efficient signal transmission.
+- 🔹 Machine Learning 🧠 - Feature selection and dimensionality reduction.
+- 🔹 Image & Audio Compression 🎵 - Reducing storage and bandwidth.
